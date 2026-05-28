@@ -1,0 +1,1 @@
+My home lab was started as a way to headlessly host certain services 24/7 and has slowly evolved into a combination of that and a way to learn Linux and various networking fundamentals.
