@@ -1,0 +1,2 @@
+- Make a diagram of how the home lab network works
+- Go more in depth on tools
